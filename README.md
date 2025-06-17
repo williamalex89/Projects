@@ -1,0 +1,3 @@
+Presentation 
+Exploratory Data Analysis on Student Habit Vs Academic Performance using Python
+This is a simulated dataset exploring how lifestyle habits affect academic performance in students. Based on this student records and 10+ features including study hours, sleep patterns, social media usage, diet quality, mental health, and final exam scores, we will analyse how each factor affect the performance of students. This dataset simulates 1,000 students' daily habits—from study time to mental health—and compares them to final exam scores. It's like spying on your GPA through the lens of lifestyle.
